@@ -1,0 +1,13 @@
+.card {
+    margin: 1%;
+    border: none !important;
+    transition: 0.9s all;
+  }
+
+.content:hover{
+  transform: scale(1.05);
+}
+
+.expenses-container {
+  max-width: 10000px;
+}
